@@ -1,5 +1,4 @@
 # markdown suport
-#recommonmark
 recommonmark
 # markdown table suport
 sphinx-markdown-tables
